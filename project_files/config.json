@@ -1,0 +1,11 @@
+{
+    "project": "LIGHT HOPE PK Sync System",
+    "version": "1.0.0",
+    "author": "LIGHT HOPE LLC",
+    "created": "2024",
+    "settings": {
+        "auto_sync": true,
+        "sync_interval": 3600,
+        "max_file_size": 10485760
+    }
+}

@@ -1,0 +1,16 @@
+# Cache
+.pk_cache/
+*.backup/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs
+*.log
